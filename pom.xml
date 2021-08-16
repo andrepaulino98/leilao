@@ -10,7 +10,7 @@
 <<<<<<< HEAD
 		<relativePath /> <!-- lookup parent from repository10-->
 =======
-		<relativePath /> <!-- lookup parent from repository3 -->
+		<relativePath /> <!-- lookup parent from repository11 -->
 >>>>>>> paulino
 	</parent>
 	<groupId>br.com.alura</groupId>
